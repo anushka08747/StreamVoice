@@ -459,11 +459,6 @@ Leave `GEMINI_API_KEY` empty. Briefings are built by the template narrator (labe
 
 ---
 
-## Hackathon
-
-**StreamVoice** is built for the **OneAquaHealth IEEE Global Hackathon**, **Track 4: Awareness and Storytelling**. Validation (Track 3), gamification (Track 5), the health map (Track 2), and FHIR export (Track 7) support the core story.
-
-> *Volunteers already know their streams. StreamVoice makes sure everyone else can hear about them, in words they understand, with numbers they can trust.*
 
 ---
 
