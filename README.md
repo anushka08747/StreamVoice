@@ -430,13 +430,6 @@ Leave `GEMINI_API_KEY` empty. Briefings are built by the template narrator (labe
 
 ---
 
-## Limitations
-
-- **Sample data only.** No real OneAquaHealth data is connected yet.
-- **Single browser.** State lives in localStorage; there are no accounts, and the reviewer role is a local switch.
-- **Pre-generated demo audio is not committed.** Briefing audio is generated live and cached in memory, so the first play of each beat waits on Gemini TTS.
-- **Briefing length is approximate.** Short briefings can overshoot the word budget, and the AI occasionally repeats a point across beats.
-- **English only.**
 
 ---
 
