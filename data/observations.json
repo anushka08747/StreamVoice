@@ -1,0 +1,415 @@
+[
+  {
+    "id": "obs-01",
+    "streamId": "berrys-creek",
+    "observerId": "o1",
+    "observedAt": "2026-08-06",
+    "clarity": 4,
+    "smell": "none",
+    "species": [
+      "mayfly nymph",
+      "caddisfly larva",
+      "stonefly nymph",
+      "heron"
+    ],
+    "litter": 0,
+    "weather": "dry",
+    "status": "accepted",
+    "flags": []
+  },
+  {
+    "id": "obs-02",
+    "streamId": "berrys-creek",
+    "observerId": "o2",
+    "observedAt": "2026-08-14",
+    "clarity": 4,
+    "smell": "earthy",
+    "species": [
+      "mayfly nymph",
+      "caddisfly larva",
+      "frog"
+    ],
+    "litter": 1,
+    "weather": "dry",
+    "status": "accepted",
+    "flags": []
+  },
+  {
+    "id": "obs-03",
+    "streamId": "berrys-creek",
+    "observerId": "o3",
+    "observedAt": "2026-08-24",
+    "clarity": 5,
+    "smell": "none",
+    "species": [
+      "mayfly nymph",
+      "stonefly nymph",
+      "minnow",
+      "dragonfly nymph"
+    ],
+    "litter": 0,
+    "weather": "dry",
+    "status": "accepted",
+    "flags": []
+  },
+  {
+    "id": "obs-04",
+    "streamId": "berrys-creek",
+    "observerId": "o1",
+    "observedAt": "2026-09-04",
+    "clarity": 3,
+    "smell": "earthy",
+    "species": [
+      "water strider",
+      "midge larva"
+    ],
+    "litter": 1,
+    "weather": "dry",
+    "status": "accepted",
+    "flags": []
+  },
+  {
+    "id": "obs-05",
+    "streamId": "berrys-creek",
+    "observerId": "o4",
+    "observedAt": "2026-09-11",
+    "clarity": 2,
+    "smell": "earthy",
+    "species": [
+      "midge larva"
+    ],
+    "litter": 1,
+    "weather": "light_rain",
+    "status": "accepted",
+    "flags": []
+  },
+  {
+    "id": "obs-06",
+    "streamId": "berrys-creek",
+    "observerId": "o2",
+    "observedAt": "2026-09-18",
+    "clarity": 3,
+    "smell": "none",
+    "species": [
+      "water strider"
+    ],
+    "litter": 2,
+    "weather": "heavy_rain",
+    "status": "accepted",
+    "flags": [],
+    "notes": "Water looked brown after the storm."
+  },
+  {
+    "id": "obs-07",
+    "streamId": "berrys-creek",
+    "observerId": "o5",
+    "observedAt": "2026-09-25",
+    "clarity": 2,
+    "smell": "earthy",
+    "species": [
+      "midge larva",
+      "water strider"
+    ],
+    "litter": 1,
+    "weather": "dry",
+    "status": "accepted",
+    "flags": []
+  },
+  {
+    "id": "obs-08",
+    "streamId": "berrys-creek",
+    "observerId": "o6",
+    "observedAt": "2026-09-27",
+    "clarity": 1,
+    "smell": "sewage",
+    "species": [
+      "fish",
+      "mayfly nymph",
+      "heron",
+      "frog"
+    ],
+    "litter": 2,
+    "weather": "dry",
+    "status": "accepted",
+    "flags": [],
+    "notes": "Fish and many species seen near the culvert."
+  },
+  {
+    "id": "obs-09",
+    "streamId": "mill-creek",
+    "observerId": "o3",
+    "observedAt": "2026-08-08",
+    "clarity": 4,
+    "smell": "none",
+    "species": [
+      "heron",
+      "minnow",
+      "caddisfly larva",
+      "mayfly nymph",
+      "frog"
+    ],
+    "litter": 0,
+    "weather": "dry",
+    "status": "accepted",
+    "flags": []
+  },
+  {
+    "id": "obs-10",
+    "streamId": "mill-creek",
+    "observerId": "o5",
+    "observedAt": "2026-08-17",
+    "clarity": 5,
+    "smell": "none",
+    "species": [
+      "heron",
+      "minnow",
+      "stonefly nymph",
+      "duck"
+    ],
+    "litter": 0,
+    "weather": "dry",
+    "status": "accepted",
+    "flags": []
+  },
+  {
+    "id": "obs-11",
+    "streamId": "mill-creek",
+    "observerId": "o1",
+    "observedAt": "2026-08-26",
+    "clarity": 4,
+    "smell": "earthy",
+    "species": [
+      "mayfly nymph",
+      "caddisfly larva",
+      "frog",
+      "heron",
+      "dragonfly nymph"
+    ],
+    "litter": 0,
+    "weather": "dry",
+    "status": "accepted",
+    "flags": []
+  },
+  {
+    "id": "obs-12",
+    "streamId": "mill-creek",
+    "observerId": "o3",
+    "observedAt": "2026-09-05",
+    "clarity": 4,
+    "smell": "none",
+    "species": [
+      "heron",
+      "minnow",
+      "mayfly nymph",
+      "frog"
+    ],
+    "litter": 0,
+    "weather": "dry",
+    "status": "accepted",
+    "flags": []
+  },
+  {
+    "id": "obs-13",
+    "streamId": "mill-creek",
+    "observerId": "o4",
+    "observedAt": "2026-09-12",
+    "clarity": 5,
+    "smell": "none",
+    "species": [
+      "heron",
+      "caddisfly larva",
+      "stonefly nymph",
+      "duck",
+      "minnow"
+    ],
+    "litter": 0,
+    "weather": "dry",
+    "status": "accepted",
+    "flags": []
+  },
+  {
+    "id": "obs-14",
+    "streamId": "mill-creek",
+    "observerId": "o5",
+    "observedAt": "2026-09-20",
+    "clarity": 4,
+    "smell": "earthy",
+    "species": [
+      "mayfly nymph",
+      "frog",
+      "dragonfly nymph",
+      "heron"
+    ],
+    "litter": 0,
+    "weather": "dry",
+    "status": "accepted",
+    "flags": []
+  },
+  {
+    "id": "obs-15",
+    "streamId": "mill-creek",
+    "observerId": "o2",
+    "observedAt": "2026-09-26",
+    "clarity": 4,
+    "smell": "none",
+    "species": [
+      "heron",
+      "minnow",
+      "caddisfly larva",
+      "frog"
+    ],
+    "litter": 1,
+    "weather": "dry",
+    "status": "accepted",
+    "flags": []
+  },
+  {
+    "id": "obs-16",
+    "streamId": "mill-creek",
+    "observerId": "o6",
+    "observedAt": "2026-09-28",
+    "clarity": 5,
+    "smell": "none",
+    "species": [
+      "heron",
+      "minnow"
+    ],
+    "litter": 0,
+    "weather": "dry",
+    "status": "accepted",
+    "flags": [],
+    "notes": "Green scum on surface near the bank."
+  },
+  {
+    "id": "obs-17",
+    "streamId": "overpeck-creek",
+    "observerId": "o2",
+    "observedAt": "2026-08-05",
+    "clarity": 2,
+    "smell": "other",
+    "species": [
+      "midge larva"
+    ],
+    "litter": 3,
+    "weather": "dry",
+    "status": "accepted",
+    "flags": []
+  },
+  {
+    "id": "obs-18",
+    "streamId": "overpeck-creek",
+    "observerId": "o4",
+    "observedAt": "2026-08-15",
+    "clarity": 2,
+    "smell": "earthy",
+    "species": [
+      "midge larva",
+      "duck"
+    ],
+    "litter": 2,
+    "weather": "dry",
+    "status": "accepted",
+    "flags": []
+  },
+  {
+    "id": "obs-19",
+    "streamId": "overpeck-creek",
+    "observerId": "o2",
+    "observedAt": "2026-08-27",
+    "clarity": 3,
+    "smell": "none",
+    "species": [
+      "duck"
+    ],
+    "litter": 3,
+    "weather": "dry",
+    "status": "accepted",
+    "flags": []
+  },
+  {
+    "id": "obs-20",
+    "streamId": "overpeck-creek",
+    "observerId": "o3",
+    "observedAt": "2026-09-03",
+    "clarity": 4,
+    "smell": "none",
+    "species": [
+      "midge larva",
+      "duck",
+      "water strider"
+    ],
+    "litter": 1,
+    "weather": "dry",
+    "status": "accepted",
+    "flags": []
+  },
+  {
+    "id": "obs-21",
+    "streamId": "overpeck-creek",
+    "observerId": "o4",
+    "observedAt": "2026-09-13",
+    "clarity": 4,
+    "smell": "none",
+    "species": [
+      "duck",
+      "water strider",
+      "minnow"
+    ],
+    "litter": 1,
+    "weather": "dry",
+    "status": "accepted",
+    "flags": []
+  },
+  {
+    "id": "obs-22",
+    "streamId": "overpeck-creek",
+    "observerId": "o6",
+    "observedAt": "2026-09-21",
+    "clarity": 3,
+    "smell": "earthy",
+    "species": [
+      "duck",
+      "frog",
+      "midge larva",
+      "minnow"
+    ],
+    "litter": 0,
+    "weather": "light_rain",
+    "status": "accepted",
+    "flags": []
+  },
+  {
+    "id": "obs-23",
+    "streamId": "overpeck-creek",
+    "observerId": "o2",
+    "observedAt": "2026-09-26",
+    "clarity": 4,
+    "smell": "none",
+    "species": [
+      "duck",
+      "minnow",
+      "crayfish"
+    ],
+    "litter": 1,
+    "weather": "dry",
+    "status": "accepted",
+    "flags": []
+  },
+  {
+    "id": "obs-24",
+    "streamId": "overpeck-creek",
+    "observerId": "o5",
+    "observedAt": "2026-09-29",
+    "clarity": 3,
+    "smell": "none",
+    "species": [
+      "duck",
+      "frog"
+    ],
+    "litter": 0,
+    "weather": "dry",
+    "status": "accepted",
+    "flags": [],
+    "notes": "Bags of trash along the bank."
+  }
+]

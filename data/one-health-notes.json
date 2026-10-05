@@ -1,0 +1,37 @@
+{
+  "RUNOFF_SIGNAL": {
+    "label": "Possible runoff",
+    "people": { "child": "Dirty runoff water can make streams unsafe to splash in.", "adult": "Runoff can carry germs and chemicals, so it is wise to avoid direct contact with the water.", "scientist": "Runoff can introduce pathogens, nutrients, and contaminants that affect recreational water safety." },
+    "pets": { "child": "Pets should not drink from murky water.", "adult": "Keep dogs from drinking or swimming in murky stream water.", "scientist": "Companion animals face exposure risk from contaminated surface water, including algal toxins and pathogens." },
+    "wildlife": { "child": "Fewer bugs means less food for birds and frogs.", "adult": "Fewer insects can mean less food for fish, frogs, and birds.", "scientist": "Declining macroinvertebrate diversity can reduce prey availability for higher trophic levels." },
+    "environment": { "child": "Rain washes dirt and trash from streets into the stream.", "adult": "Rain can wash soil, oil, and litter from streets and lots into the stream.", "scientist": "Stormwater can transport sediment and pollutants that raise turbidity and degrade habitat." }
+  },
+  "LITTER_RISING": {
+    "label": "More litter",
+    "people": { "child": "Trash on the bank can hurt people who walk there.", "adult": "Litter along the bank can create hazards and may point to wider dumping.", "scientist": "Increasing litter can indicate illegal dumping or poor stormwater capture." },
+    "pets": { "child": "Pets can get hurt by sharp trash.", "adult": "Pets can be injured or made sick by broken glass and plastic.", "scientist": "Companion animals may ingest or be injured by debris." },
+    "wildlife": { "child": "Birds can get tangled in plastic.", "adult": "Birds and small animals can swallow or get tangled in plastic.", "scientist": "Plastic debris poses entanglement and ingestion risks to wildlife." },
+    "environment": { "child": "Trash can slowly break into tiny pieces.", "adult": "Plastic can break into tiny pieces that stay in the water.", "scientist": "Macroplastic fragments into microplastics that persist in sediments." }
+  },
+  "ODOR_REPORTED": {
+    "label": "Bad smell reported",
+    "people": { "child": "A bad smell can mean the water is not clean.", "adult": "A sewage or chemical smell can signal contamination, so keep clear of the water.", "scientist": "Sewage or chemical odors can indicate contamination and warrant sampling." },
+    "pets": { "child": "Pets should stay away from smelly water.", "adult": "Keep pets away from water that smells off.", "scientist": "Odorous water may carry pathogens or toxicants hazardous to animals." },
+    "wildlife": { "child": "Smelly water can be hard for fish to live in.", "adult": "Poor water quality can stress fish and other water life.", "scientist": "Contamination can lower dissolved oxygen and stress aquatic organisms." },
+    "environment": { "child": "Something may be leaking into the stream.", "adult": "A leak or overflow upstream may be adding pollution.", "scientist": "Odors may indicate point-source discharge or organic loading." }
+  },
+  "LOW_BIODIVERSITY": {
+    "label": "Few species seen",
+    "people": { "child": "Fewer kinds of animals can mean the stream is unwell.", "adult": "Few species can signal that the stream is under stress, which affects the places we enjoy.", "scientist": "Low richness is a common indicator of degraded ecological condition." },
+    "pets": { "child": "A stream with little life may not be a good place to play.", "adult": "A stressed stream may be a less safe place for pets to cool off.", "scientist": "Reduced biological integrity may coincide with higher contaminant exposure." },
+    "wildlife": { "child": "Birds and frogs need bugs and little fish to eat.", "adult": "Birds, frogs, and fish rely on a variety of insects and small animals.", "scientist": "Reduced diversity can compromise food web stability." },
+    "environment": { "child": "A healthy stream has lots of different small animals.", "adult": "A healthy stream usually has many kinds of small creatures.", "scientist": "Sensitive taxa are often lost first under pollution stress." }
+  },
+  "LOW_DATA": {
+    "label": "Not enough checks yet",
+    "people": { "child": "We need more people to look at this stream.", "adult": "More volunteer visits would make this picture more reliable.", "scientist": "Small sample sizes limit inference and widen uncertainty." },
+    "pets": { "child": "Be careful until we know more.", "adult": "Until more data arrives, treat conditions as uncertain.", "scientist": "Sparse data limits risk characterization for companion animals." },
+    "wildlife": { "child": "More looks help us spot problems early.", "adult": "More observations help spot changes that affect wildlife early.", "scientist": "Additional observations are needed to detect trends in wildlife indicators." },
+    "environment": { "child": "You can help by adding a check.", "adult": "Adding an observation helps build a clearer picture.", "scientist": "Increasing observation frequency improves temporal resolution." }
+  }
+}

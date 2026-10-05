@@ -1,0 +1,5 @@
+[
+  { "id": "berrys-creek", "name": "Berrys Creek", "lat": 40.8202, "lng": -74.0859, "description": "A tidal creek in East Rutherford that runs past highways and the large parking lots around the Meadowlands sports complex." },
+  { "id": "mill-creek", "name": "Mill Creek", "lat": 40.7990, "lng": -74.0460, "description": "A creek in Secaucus that borders the Mill Creek Marsh nature preserve, where herons often feed." },
+  { "id": "overpeck-creek", "name": "Overpeck Creek", "lat": 40.8563, "lng": -74.0068, "description": "A tidal creek through Overpeck County Park, where wetland restoration has been ongoing." }
+]
